@@ -17,4 +17,4 @@
 - Clase 7 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana7%2FSemana7.ipynb)
 - Clase 8 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana8%2FSemana8.ipynb)
 
-- Clase 9 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana9%2FStochastic+Gradient+Descent.ipynb)
+- Clase 9 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana9%2FStochastic-Gradient-Descent.ipynb)
