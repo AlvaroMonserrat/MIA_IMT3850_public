@@ -16,3 +16,5 @@
 - Clase 6 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana6%2FProbabilidad+y+Estadistica.ipynb)
 - Clase 7 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana7%2FSemana7.ipynb)
 - Clase 8 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana8%2FSemana8.ipynb)
+
+- Clase 8 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuelSanchezUribe/MIA_IMT3850_public/HEAD?urlpath=%2Fdoc%2Ftree%2FSemana8%2FSemana9.ipynb)
